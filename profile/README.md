@@ -17,7 +17,3 @@ We welcome enthusiasts of all skill levels to contribute to our public domain pr
 - Contribute code, documentation, or ideas
 - Report bugs or suggest new features
 - Spread the word about GodEyes and our mission
-
-## ⚠️ Avoid Scams
-
-**Important:** Our only official domains are [godeyes.org](https://godeyes.org) and [godey.es](https://godey.es). Be cautious of any other websites claiming to represent GodEyes, as they may be scams or unauthorized imitations.
